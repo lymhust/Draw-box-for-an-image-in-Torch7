@@ -1,4 +1,4 @@
-drawbox.torch
+Drawbox
 ====================
 
 A drawbox module for torch7
